@@ -1,1 +1,1 @@
-Developed back-end loan default analysis with a time series modelling. 
+Developed back-end loan default analysis with a time series modeling. 
